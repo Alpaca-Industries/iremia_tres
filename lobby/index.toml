@@ -5,6 +5,11 @@ file = "mods/PAPIProxyBridge-Fabric-1.8-50ebc6e+mc.1.21.4.jar"
 hash = "e2abbc5ac7b3ff231ca4122fd8c950e5aed3ef854196d9e661cfc9f2a5416872"
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "9d637e3d9bbca322e2673999a92ece631276f124f579227ecd00927715c63ede"
 metafile = true

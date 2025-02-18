@@ -18,6 +18,11 @@ hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
 metafile = true
