@@ -1,0 +1,29 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/PAPIProxyBridge-Fabric-1.8-50ebc6e+mc.1.21.4.jar"
+hash = "e2abbc5ac7b3ff231ca4122fd8c950e5aed3ef854196d9e661cfc9f2a5416872"
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "9d637e3d9bbca322e2673999a92ece631276f124f579227ecd00927715c63ede"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+metafile = true
+
+[[files]]
+file = "mods/taterzens-1.15.8.jar"
+hash = "45c310988332122f2e92ce550dfc19da0f8400bd00687dfa8b16db927d779879"

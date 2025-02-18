@@ -1,0 +1,39 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/MiniPlaceholders-Fabric-2.3.0-SNAPSHOT.jar"
+hash = "689cb8a03508ccb43e33dbd5e7eb54ab469dccc5be27e70338ea77f06e1c5c7b"
+
+[[files]]
+file = "mods/MiniPlaceholders-LuckPerms-Expansion-Fabric-1.4.1.jar"
+hash = "e9b366625aa7a4d489bf34300ffa3d657d85d02abf5d265e3d10427c717ec868"
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
+metafile = true
+
+[[files]]
+file = "mods/miniplaceholders-luckperms-expansion.pw.toml"
+hash = "a820ab56ee3c28ff648c619242944e9ec750a39401139321e085a11e39d42226"
+metafile = true
+
+[[files]]
+file = "mods/miniplaceholders.pw.toml"
+hash = "0dcbf03afd1320563353cd35516566b86ad6f2a5348e05f972304e86206f7951"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+metafile = true

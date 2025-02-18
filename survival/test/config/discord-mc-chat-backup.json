@@ -1,0 +1,82 @@
+{
+  "generic": {
+    "language": "en_us",
+    "botToken": "MTA1Nzg5NjAwMjg4NDk5NzE4MQ.GxHles.80_b-UBf13et5xENTrxzG_G6TTOvgCN1E6VAxM",
+    "showServerStatusInBotStatus": true,
+    "botPlayingActivity": "Having fun in Iremia!",
+    "botListeningActivity": "",
+    "useWebhook": true,
+    "channelId": "1337259207728173106",
+    "consoleLogChannelId": "1121659163223801917",
+    "updateNotificationChannelId": "1062852663500345426",
+    "useUuidInsteadOfName": true,
+    "avatarApi": "https://vzge.me/bust/256/{player_textures}",
+    "broadcastPlayerCommandExecution": false,
+    "broadcastSlashCommandExecution": false,
+    "announceServerStartStop": true,
+    "announcePlayerJoinLeave": true,
+    "announceDeathMessages": true,
+    "announceAdvancements": true,
+    "broadcastChatMessages": true,
+    "formatChatMessages": false,
+    "allowedMentions": [
+      "users",
+      "roles"
+    ],
+    "useServerNickname": true,
+    "discordNewlineLimit": 3,
+    "announceHighMspt": true,
+    "msptCheckInterval": 5000,
+    "msptLimit": 50,
+    "whitelistRequiresAdmin": true,
+    "notifyUpdates": true,
+    "mentionAdminsForUpdates": true,
+    "updateChannelTopic": true,
+    "channelTopicUpdateInterval": 600000,
+    "shutdownImmediately": false,
+    "excludedCommands": [
+      "\\/msg ([^@].*)",
+      "\\/tell ([^@].*)",
+      "\\/tellraw ([^@].*)",
+      "\\/w ([^@].*)",
+      "\\/teammsg (.*)",
+      "\\/tm (.*)"
+    ],
+    "adminsIds": [
+      "367056879223963648"
+    ]
+  },
+  "multiServer": {
+    "enable": false,
+    "host": "127.0.0.1",
+    "port": 5000,
+    "name": "SMP",
+    "botIds": []
+  },
+  "customMessage": {
+    "unformattedResponseMessage": "",
+    "unformattedChatMessage": "",
+    "unformattedOtherMessage": "",
+    "unformattedCommandNotice": "",
+    "formattedResponseMessage": "",
+    "formattedChatMessage": "",
+    "formattedOtherMessage": "",
+    "formattedCommandNotice": "",
+    "messageWithoutWebhook": "",
+    "messageWithoutWebhookForMultiServer": "",
+    "serverStarted": "",
+    "serverStopped": "",
+    "joinServer": "",
+    "leftServer": "",
+    "deathMessage": "",
+    "advancementTask": "",
+    "advancementGoal": "",
+    "advancementChallenge": "",
+    "highMspt": "",
+    "offlineChannelTopic": "",
+    "onlineChannelTopic": "",
+    "onlineChannelTopicForMultiServer": ""
+  },
+  "latestVersion": "2.4.0",
+  "latestCheckTime": 1739579465413
+}

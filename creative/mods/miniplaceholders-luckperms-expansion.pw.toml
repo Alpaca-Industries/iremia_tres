@@ -1,0 +1,6 @@
+name = "MiniPlaceholders Luckperms Extension"
+filename = "MiniPlaceholders-LuckPerms-Expansion-Fabric-1.4.1.jar"
+side = "server"
+
+hash-format = "sha256"
+hash = "e9b366625aa7a4d489bf34300ffa3d657d85d02abf5d265e3d10427c717ec868"

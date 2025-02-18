@@ -1,0 +1,13 @@
+name = "Survival"
+author = "Scott Gould <greysilly7@gmail.com>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "17527333f11f152a44046a0f94b41ba1756514364110b6c952d252b16afc0294"
+
+[versions]
+minecraft = "1.21.4"
+quilt = "0.28.0-beta.8"

@@ -1,0 +1,13 @@
+name = "SleepWarp (Updated)"
+filename = "sleepwarp-2.6.0+1.21.4-rc3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DlSXkZVT/versions/l1huJSrg/sleepwarp-2.6.0%2B1.21.4-rc3.jar"
+hash-format = "sha512"
+hash = "1abfe84c1c4c4424d27d646851caca3ba3c56710e252a5811328798ada86a9d0b66f190cb54d124e92afc0a50b822c7f935430e7b0a66f7f92340e61a4996e2d"
+
+[update]
+[update.modrinth]
+mod-id = "DlSXkZVT"
+version = "l1huJSrg"
