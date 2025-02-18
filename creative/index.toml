@@ -9,6 +9,10 @@ file = "mods/MiniPlaceholders-LuckPerms-Expansion-Fabric-1.4.1.jar"
 hash = "e9b366625aa7a4d489bf34300ffa3d657d85d02abf5d265e3d10427c717ec868"
 
 [[files]]
+file = "mods/PAPIProxyBridge-Fabric-1.8-50ebc6e+mc.1.21.4.jar"
+hash = "e2abbc5ac7b3ff231ca4122fd8c950e5aed3ef854196d9e661cfc9f2a5416872"
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
@@ -16,16 +20,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
-metafile = true
-
-[[files]]
-file = "mods/miniplaceholders-luckperms-expansion.pw.toml"
-hash = "a820ab56ee3c28ff648c619242944e9ec750a39401139321e085a11e39d42226"
-metafile = true
-
-[[files]]
-file = "mods/miniplaceholders.pw.toml"
-hash = "0dcbf03afd1320563353cd35516566b86ad6f2a5348e05f972304e86206f7951"
 metafile = true
 
 [[files]]
