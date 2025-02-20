@@ -20,6 +20,10 @@ hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
 metafile = true
 
 [[files]]
+file = "mods/npcsmadeeasy-1.0-SNAPSHOT.jar"
+hash = "96361d1e1df796516bb2ecf57b6f34251d893d92721036c3b81329e7fcaff267"
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
