@@ -28,7 +28,3 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
-
-[[files]]
-file = "mods/taterzens-1.15.8.jar"
-hash = "45c310988332122f2e92ce550dfc19da0f8400bd00687dfa8b16db927d779879"
