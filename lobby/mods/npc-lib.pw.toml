@@ -1,0 +1,13 @@
+name = "npc-lib"
+filename = "npc-lib-fabric-3.0.0-beta11+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lEAojbht/versions/KHQWMkxl/npc-lib-fabric-3.0.0-beta11%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "045b1616104fcf34df4e6c78feb3d59d21f40570b3b1f115b9cca4627ccae37058dd4372bd669882da19a845b20b9b55bc296a1e0247c82cde42e75896909e2e"
+
+[update]
+[update.modrinth]
+mod-id = "lEAojbht"
+version = "KHQWMkxl"

@@ -20,6 +20,15 @@ hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
 metafile = true
 
 [[files]]
+file = "mods/npc-lib-fabric-3.0.0-beta11+1.21.4.jar"
+hash = "d9b3dc8575cb52e3cb1684eb4c8c09743ebf3077040857a31efbe358b2088e6f"
+
+[[files]]
+file = "mods/npc-lib.pw.toml"
+hash = "b5dd474c8f5b844f9b47602eca60bcc791241c9051c0cf61a3dce6a4ae0b9a45"
+metafile = true
+
+[[files]]
 file = "mods/npcsmadeeasy-1.0-SNAPSHOT.jar"
 hash = "96361d1e1df796516bb2ecf57b6f34251d893d92721036c3b81329e7fcaff267"
 
