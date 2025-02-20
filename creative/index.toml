@@ -23,6 +23,11 @@ hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
 metafile = true

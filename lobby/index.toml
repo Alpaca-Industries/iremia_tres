@@ -10,6 +10,11 @@ hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "9d637e3d9bbca322e2673999a92ece631276f124f579227ecd00927715c63ede"
 metafile = true
