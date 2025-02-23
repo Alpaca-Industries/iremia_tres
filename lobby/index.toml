@@ -170,6 +170,11 @@ hash = "4f82da776d581fe3557524a40e9d8fd5d2b76b8e05a10c795461c554d56a521b"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "9afdbf2cb581444f3f4e3f1d50afee9be3230ff18bada347a75bc48ccc0219f5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
 metafile = true
