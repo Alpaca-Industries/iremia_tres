@@ -22,7 +22,7 @@ hash = "fa8f970af25884b5c77742f322564a9151f0dccb5fa94713cace3dd4ff25ccf7"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "396eba14a0ee533e2f9474ac5c982c59653bde0cddb3ad103d03b0513b12a9db"
+hash = "59f0b3219144dd58d179197a4d28c7d0849c677b93480673699f97299c0a17b5"
 
 [[files]]
 file = "config/Geyser-Fabric/cache/client_jar.hash"
@@ -191,18 +191,6 @@ hash = "cf1b91af5c6def806a54004e6037d4a4c50e1f2595d26222b467f0ce75c1ed26"
 [[files]]
 file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
-
-[[files]]
-file = "config/discord-mc-chat-backup.json"
-hash = "87b1328cb5be0c60b99e4c51a3271d41149e94202f38afba08ce5656853e2997"
-
-[[files]]
-file = "config/discord-mc-chat.json"
-hash = "79934f941305cf65a061631a0f6aa8ba9f8f0f2fed80470dd17bd730afafea16"
-
-[[files]]
-file = "config/discord-mc-chat/1.21.4-en_us.json"
-hash = "688581bc6c614e78b9f6f67c3a254e8b788a4f251f53482f64895803e78e5ad4"
 
 [[files]]
 file = "config/fabric-server-launcher.properties"
@@ -489,6 +477,10 @@ file = "mods/MiniPlaceholders-LuckPerms-Expansion-Fabric-1.4.1.jar"
 hash = "e9b366625aa7a4d489bf34300ffa3d657d85d02abf5d265e3d10427c717ec868"
 
 [[files]]
+file = "mods/PAPIProxyBridge-Fabric-1.8-50ebc6e+mc.1.21.4.jar"
+hash = "e2abbc5ac7b3ff231ca4122fd8c950e5aed3ef854196d9e661cfc9f2a5416872"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "844c0fcb5844da9f49c6f21e01f1c03321e8c95964b27a3bf5a5841d65955946"
 metafile = true
@@ -614,11 +606,6 @@ hash = "b9315485edf9afc7934690bd4391c8b551e4d3816f094c77352dfec956f40b63"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
@@ -626,11 +613,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
-metafile = true
-
-[[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "3dc5c2ae7db409f60bbec59830ba7d2108cdbdd1c6be7e4fa5278220213de558"
 metafile = true
 
 [[files]]
@@ -656,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
 
 [[files]]
