@@ -656,11 +656,6 @@ hash = "2daba7fd03cc9b9b51a2bb5a6ebbe524b2471b589a4072cca8b5728fa77413e7"
 metafile = true
 
 [[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "adfb54f777746cf349b0da5d5ec0e1be68f46382d7d39431870c77ccfa097d30"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "82d8e33b003af7151efc71ad8baaaf0e3f6bda6ea71eca22d5664003849815fb"
 metafile = true
