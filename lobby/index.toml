@@ -205,8 +205,8 @@ hash = "b9ccdada3af888348b8c8eb757ea3c528bd20db5f0beef533fd6c5eee651faa6"
 metafile = true
 
 [[files]]
-file = "mods/goml-reserved.pw.toml"
-hash = "9d637e3d9bbca322e2673999a92ece631276f124f579227ecd00927715c63ede"
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
 
 [[files]]
@@ -256,4 +256,9 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "b59261452b61286cd8eab263e9f066d5d14c4cf8f99ec8142eab5df4da814ddd"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "c18f8b535f5c2827da4cf64280c066fc4cf5e33c728bd62ed14b5fbc9fedbeee"
 metafile = true
