@@ -646,6 +646,11 @@ hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
 
 [[files]]
+file = "mods/signedvelocity.pw.toml"
+hash = "bc2c863060059c78dc77dd6e5690cd724543162da4bf9a579c3eb1f685ea5815"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
