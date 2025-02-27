@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/npcsmadeeasy-1.0-SNAPSHOT.jar"
-hash = "a5b062c913513c6cc9ebb54b24e5d36f9ec14ac285e33fac3f956233eb36ee78"
+hash = "9ea3a9beed9767dec7a22b6f67971d674c8fd5eab35a4c007572e91626e63756"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
