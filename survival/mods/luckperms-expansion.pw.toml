@@ -1,0 +1,15 @@
+name = "LuckPerms-Expansion"
+filename = "LuckPerms-Expansion-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MiniPlaceholders/LuckPerms-Expansion/releases/download/2.1.0/LuckPerms-Expansion-2.1.0.jar"
+hash-format = "sha256"
+hash = "5c788b69b63c4e5f54c8fbe8580ffba1d3d09bfd43a6d3b4232665ef7a15099a"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "MiniPlaceholders/LuckPerms-Expansion"
+tag = "2.1.0"

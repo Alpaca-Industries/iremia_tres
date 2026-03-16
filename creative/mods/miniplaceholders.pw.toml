@@ -1,0 +1,13 @@
+name = "MiniPlaceholders"
+filename = "MiniPlaceholders-Fabric-3.1.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HQyibRsN/versions/ypkD8BlQ/MiniPlaceholders-Fabric-3.1.1-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "d03bc9863b838bcfef7d4c4e75fad70b81e68b480c65024be68d5443d87682972a5a8ea59640754e6a5192c82a6b5c362bac0f456a409631856861d814e80f83"
+
+[update]
+[update.modrinth]
+mod-id = "HQyibRsN"
+version = "ypkD8BlQ"

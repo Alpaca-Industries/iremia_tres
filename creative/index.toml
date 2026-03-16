@@ -2,167 +2,155 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "59f0b3219144dd58d179197a4d28c7d0849c677b93480673699f97299c0a17b5"
+hash = "44d8560411feffcfead36cc89c631d780ca52b1120e6ebd7a4850c458c51857b"
 
 [[files]]
 file = "config/editor-keystore.json"
-hash = "56e89eaad894c285df30c2b412aefe7c088bf58e09ef2fa9832cc10bafecd975"
+hash = "ce3826a4a7541d915a20b0525fcdc4ead8c6bcafa2728848cb50dad94de67a61"
 
 [[files]]
 file = "config/luckperms.conf"
-hash = "179f84e9410fa77e9420e91ade54ca930f28da50fe5af5708608a8c0a0612b44"
+hash = "83a7705b37efd8f97c7ea1f6d17e1e18ab3d24c08a178e9ac1436505fdbed79d"
 
 [[files]]
 file = "config/translations/repository/ar_SA.properties"
-hash = "bf8293312a11f0b2cd298a81fe17a51ca72c251b604d581a372c45c7360504eb"
+hash = "244f6c99543722c03fd0a581da0c2d43ce93bc396545f0bd88786713b41b89d5"
 
 [[files]]
 file = "config/translations/repository/bg_BG.properties"
-hash = "06d5a4506b42a80e4bbf4d61801a2166613a441eb9418aa73a3c84e13be3c74a"
+hash = "b86ca4d4fbd2086c8710af87a3048bc41bb953b680f42e989e2bcfb3f3da0e42"
 
 [[files]]
 file = "config/translations/repository/cs_CZ.properties"
-hash = "c3706f0c9b8dcc15b839dbc28c30abbaa549d429508ce2788d0eb2ed189c6a89"
+hash = "936780f82df858f40f5342276e233819e39dc7d5e5bcde75f92cabb000c644b5"
 
 [[files]]
 file = "config/translations/repository/da_DK.properties"
-hash = "25df30b219ddf973f39741ccfb112a3bbcb23b19317f854742c204ba3cd14b66"
+hash = "7bdd307c776af01fcef97d03dd342a42771bbf36ec3538b5036565a12eda1191"
 
 [[files]]
 file = "config/translations/repository/de_DE.properties"
-hash = "181b26352e6d8731b6d6a96dc188d6283d21e0731209b8e9e0b6fb3f5c455969"
+hash = "90b8798680f53b1e18fadac663792c1527c5819e69135045f22df9f5ab63d515"
 
 [[files]]
 file = "config/translations/repository/el_GR.properties"
-hash = "500a58cccf9935cf0014f9d0c6c738aee2fb7ada382942620c71a12fafe9ee84"
+hash = "a53918739a8d91ca49aa51f498cfa95ec284254d58f9f8dcf8a9ea9d2e258828"
 
 [[files]]
 file = "config/translations/repository/en_PT.properties"
-hash = "b4e30ccde47e435249520b1edcab5c771b5263662f1b61caf6fb8d8ef090d343"
+hash = "e6ded8905d4e11af2d77eabb58240303518edb505802ecc49a24d64023e6f083"
 
 [[files]]
 file = "config/translations/repository/es_ES.properties"
-hash = "0e88d189b5d075036d4c7d39baf2dc7debec4bc11bea7b524a43e2a84fdef8e0"
+hash = "e968f14ba235e152d54a9b9aae5f166810f92fa6364989f2830000547ee2d3c3"
 
 [[files]]
 file = "config/translations/repository/fa_IR.properties"
-hash = "830623f0017d2bbc92a4eab17fb2c89e8f8c63213da92864c715a04c6af5ffc5"
+hash = "c8348894b858327b9f468c8091dc04f8e06bf29dfd3cd85b7af2f5aa9374471a"
 
 [[files]]
 file = "config/translations/repository/fi_FI.properties"
-hash = "63f451b060c1dab3a0008076b73dfd95ef5e2effbe688fe51786e65b1dced93d"
+hash = "acc5a5e3d65a394a51a9b30cdfca9eab9fead3f5dc8ac33e99471fced4e000ce"
 
 [[files]]
 file = "config/translations/repository/fil_PH.properties"
-hash = "b7d79b5b192664855fbf3cdedf55b1a93a6a7b7dee17eeee28cbf74000852ce2"
+hash = "662df5bc107369bb88308e8cdac6d57b6b26c6217f7f72dd82c18ab9d279b10b"
 
 [[files]]
 file = "config/translations/repository/fr_FR.properties"
-hash = "78bec8b2294f9fd2a6a958d7153057064bc7f6bf99aeae4889d73bb844ab30f0"
+hash = "5dbf550e07508d97185e01ab19df598adb6b54c7ebc43f6de6cb2cb4e24db7f7"
 
 [[files]]
 file = "config/translations/repository/he_IL.properties"
-hash = "0b3836e270dcae860f7851ca511c02ba231ad422c0d35b42499bdc657126c1f0"
+hash = "478417376d581ef026ac3ed8e1f5bccc0a9e9a95f82529d3378eaf080454e8dd"
 
 [[files]]
 file = "config/translations/repository/hi_IN.properties"
-hash = "e2f23be431a0ba843bd02b1c1acd7ecc8c227170619a80d3faad08c7040f7292"
+hash = "db9e8c69dc0d8fcd121e75ebebe3f649f2133667af1ae3f71e062df5eca3e917"
 
 [[files]]
 file = "config/translations/repository/hu_HU.properties"
-hash = "6b26d964931d5be3890bbea50ed7d8ef73a6bed172bb64422bf6349e08d90320"
+hash = "41c91deb76028a323651b761621d4eee36eb28838e64f76d40b6d75d96784e60"
 
 [[files]]
 file = "config/translations/repository/id_ID.properties"
-hash = "1abc861f060461b73a018006c33edbab54a5d19be5ee178f86fee50d42dca0a3"
+hash = "7ce2f2196b0ff9268d7d52b6fac0d3b1cc612497d01f4ce87f6e2ef7452dedd0"
 
 [[files]]
 file = "config/translations/repository/it_IT.properties"
-hash = "73ba306112d85a6e88f3d689b0af7de67ee7397748965f49a7970c6b1d311913"
+hash = "afa5f8062096b0b68d675016c31b6976b640a8d21c8a48ff01f1930c9862cdc8"
 
 [[files]]
 file = "config/translations/repository/ja_JP.properties"
-hash = "b9e839bae812811dc3f44ff3d8086f0a86ad45e56223fd6e88e7723ffa7c1822"
+hash = "9a2c7ddd89d598585c9c86b81903b2cc637dce9c661a5c90aa7edcb10d3237d6"
 
 [[files]]
 file = "config/translations/repository/ka_GE.properties"
-hash = "2c0ad2e6de804c6ae13b4e5fb7c0c387a16e04710fc5a87f02e0aa09f4ba7383"
+hash = "a8e2b6f98c90916de84cadc201a9398d144fcf8ddc82da1d558f3b2943da8e61"
 
 [[files]]
 file = "config/translations/repository/ko_KR.properties"
-hash = "35051dd4dab93215a6d623af11f7c273169617157ab260baa27addd69f6e1651"
+hash = "d1ce3f2cbf396f1ed5383b341af9de515710f804d56bb35a2bd43b4449594b89"
 
 [[files]]
 file = "config/translations/repository/nl_NL.properties"
-hash = "7674ff756a3c3aae7c450dd88d3bf5e446757bc1dc6820edf77f5645927fe080"
+hash = "b9281d23411adafc87dcf51dfdd4a421b9159258b963a4363c041245fded9d4c"
 
 [[files]]
 file = "config/translations/repository/no_NO.properties"
-hash = "902c97ce770205af9a0ef3cb04927b187a607a4cbd0bf460457065ca0e62f949"
+hash = "b44e3755aa19d849582ba8fc9ef9e6c011634e8fdf7de1a357da5c5e04b66bbb"
 
 [[files]]
 file = "config/translations/repository/pl_PL.properties"
-hash = "831f701155a953fa14c1967b84e30893eeacf4215af0cc7c4170e1c84cf66efe"
+hash = "7d6ab357d8ce7b042faa2c9596056a6a7b90a019d611d3baeb502543cbaffeeb"
 
 [[files]]
 file = "config/translations/repository/pt_BR.properties"
-hash = "4ee4f3669e790dec7ecf62e2b6d0350cdd2fd41838925c7c7edf0746e588b755"
+hash = "566f53202a41753ae53ca64d61f828f52eba67f62e6e297651fcda2e187aae02"
 
 [[files]]
 file = "config/translations/repository/ro_RO.properties"
-hash = "b0954c2b060b164d55eb5a143277dfd00cfd47ca3d7e2fe1f1b29e17b1cd914e"
+hash = "e67dfb727fb9ee366550f393fabe5625851347c5e8e4d1e9fc7515676490a976"
 
 [[files]]
 file = "config/translations/repository/ru_RU.properties"
-hash = "10f4fe2028fefc01b436bd37b3d3dc1ebd231e86c234559f2f7cfcba61d80daf"
+hash = "6e36c322b344b9cb6a72bf6187efd06f40a41fc09f857d09c522e33f0e16bb10"
 
 [[files]]
 file = "config/translations/repository/sk_SK.properties"
-hash = "8796493dd2868a0c5b9cd31b0476292604f6a7b7cd2ebb77878511bdd1d522ed"
+hash = "25f06f40d4921ccb7fc1aec0a8168c67b4b78887bc6cb29d39fbf7702af0162c"
 
 [[files]]
 file = "config/translations/repository/sr_CS.properties"
-hash = "912c0aff4bb5bf77bf907c6ccb072fae19948311d8cb8f4f5d2f97c94adb5533"
+hash = "8125e7e3dec234aa1c5dc397e6f5d05902cba78cb071addbf9c45da37ffb2d6b"
 
 [[files]]
 file = "config/translations/repository/status.json"
-hash = "e0f9637031b8e6b76a95e45de1f04877072f40f2c38df34fd5d9242855bc87ff"
+hash = "2c685d5b2efffa04a5e62c10d51bb3944f59d87b7a720d7c8753500320e1b839"
 
 [[files]]
 file = "config/translations/repository/sv_SE.properties"
-hash = "4a0d1b26ef14040333044bfdec7ca6c32d81251c2f0d3b8006d409dac392f454"
+hash = "4d2e5a23a184069de552cf028a153c0c9dacc28828a445f917b82e36eee64f2e"
 
 [[files]]
 file = "config/translations/repository/tr_TR.properties"
-hash = "7e089aa50240afd2674862bb7529265d050f00e3ac651e10b516e0931fb83f51"
+hash = "5c9e2aaebed1010ae5595b75294b4c9341107e5bf367e096847c6915064a816b"
 
 [[files]]
 file = "config/translations/repository/uk_UA.properties"
-hash = "1f9ecde9e332484f602bdba194fd46c8c400ee0997dc514f8e2b009bfca63a2b"
+hash = "fabab82fd5d77e5b1150b7f8055e1cbe3b67054e4e8b6dfe796ecc3d5712c5de"
 
 [[files]]
 file = "config/translations/repository/vi_VN.properties"
-hash = "79c28807f8b0c5ade7aa50aa8ace0d4bc536ea21b605f45d0fa20daeec10955b"
+hash = "36b1a7aff599cd863dd53e281d05caa0902f33ea5afcb02e438d66b2869842c8"
 
 [[files]]
 file = "config/translations/repository/zh_CN.properties"
-hash = "749818ed7785e91888857d69c198f783d8d23a5d3853ed11d9e4faea41d3e538"
+hash = "f224c3f846c858867c8b3e71dffe5940b4afa20b1678e54fabcf6f472c3db019"
 
 [[files]]
 file = "config/translations/repository/zh_TW.properties"
-hash = "4b1e198912e781189a9cff2108dda10ae8e88d2f67d2658490880fa63641824f"
-
-[[files]]
-file = "mods/MiniPlaceholders-Fabric-2.3.0-SNAPSHOT.jar"
-hash = "689cb8a03508ccb43e33dbd5e7eb54ab469dccc5be27e70338ea77f06e1c5c7b"
-
-[[files]]
-file = "mods/MiniPlaceholders-LuckPerms-Expansion-Fabric-1.4.1.jar"
-hash = "e9b366625aa7a4d489bf34300ffa3d657d85d02abf5d265e3d10427c717ec868"
-
-[[files]]
-file = "mods/PAPIProxyBridge-Fabric-1.8-50ebc6e+mc.1.21.4.jar"
-hash = "e2abbc5ac7b3ff231ca4122fd8c950e5aed3ef854196d9e661cfc9f2a5416872"
+hash = "c502967bc5451811fd4f1d8a5bde4ad795b4519d9a06cc68bb29862b5cf265ea"
 
 [[files]]
 file = "mods/async.pw.toml"
@@ -220,13 +208,28 @@ hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-expansion.pw.toml"
+hash = "b872aa5d71ed6dd1fa12939fa9ece294ae6cb2cc25961bf5b325ccc77746ad1f"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
+file = "mods/miniplaceholders.pw.toml"
+hash = "749bb4512ac41c28e7fded284d5b87f3d2876a3a583b88f76da1929b847de303"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+metafile = true
+
+[[files]]
+file = "mods/papiproxybridge.pw.toml"
+hash = "2b63935f73d7c7cd525ee69bfc598a7e38cea681f5caffc20ce8f2ddec98027e"
 metafile = true
 
 [[files]]
@@ -237,16 +240,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
-metafile = true
-
-[[files]]
-file = "mods/signedvelocity.pw.toml"
-hash = "bc2c863060059c78dc77dd6e5690cd724543162da4bf9a579c3eb1f685ea5815"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
 metafile = true
 
 [[files]]

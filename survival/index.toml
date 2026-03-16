@@ -22,7 +22,7 @@ hash = "fa8f970af25884b5c77742f322564a9151f0dccb5fa94713cace3dd4ff25ccf7"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "59f0b3219144dd58d179197a4d28c7d0849c677b93480673699f97299c0a17b5"
+hash = "44d8560411feffcfead36cc89c631d780ca52b1120e6ebd7a4850c458c51857b"
 
 [[files]]
 file = "config/Geyser-Fabric/cache/client_jar.hash"
@@ -102,15 +102,15 @@ hash = "573a2738cfcfd4a636e4b34cbf7f3702f230440133699c504ad26d3424ebf419"
 
 [[files]]
 file = "config/Geyser-Fabric/config.yml"
-hash = "e1782e44577936fe9f4530ffd247c73293456af68753689175c1a212f1c1206e"
+hash = "86cc16bc5ad7343772f3d2eaba64ee53697fc934da742ef7e781d0b02cd4575e"
 
 [[files]]
 file = "config/Geyser-Fabric/custom-skulls.yml"
-hash = "aa24c229554aae576618944e30bba3e0c648eee98c8b47bd2255e3780fe87898"
+hash = "b0175d53f644db968a64f6cc3dd1e08e4f3b34042005fab24010a93601ec4653"
 
 [[files]]
 file = "config/Geyser-Fabric/locales/en_us.json"
-hash = "e08835f838eab44cea1a0ddbf9fca17d3235daa326f580b74187c899c104cc12"
+hash = "1447b1ae6bba4831fb295f647ed2b661031ef086d10ed14e930da7e89ccad2e6"
 
 [[files]]
 file = "config/MiniMOTD/icons/iremia.png"
@@ -118,99 +118,99 @@ hash = "448184edf37b2a96228e381b6315bb1f2d8fa5dc9a657ac319aef6c9316c77f8"
 
 [[files]]
 file = "config/MiniMOTD/main.conf"
-hash = "0086f191b234be9fb1e06bec695f03880bb37933e53ef69d7d86bd02ea94f6f7"
+hash = "bb8f7a9c6284783e7d224d4cb04c0272680eb8aef850acd29d663dbaeebd4d15"
 
 [[files]]
 file = "config/MiniMOTD/plugin_settings.conf"
-hash = "ddd1154df6a86ecf8a16a4fa2b73d5fabf648a00d714018ffbbef8fab6f3b29a"
+hash = "619caa873e7ceb9bf6df4e8e71e6e469f941f847ed6f1bfaaa99a06e8c5efaca"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+hash = "b70210e81692c58133ce837ca2975896da7f84feba5f57c263852c3ee3478b94"
 
 [[files]]
 file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 
 [[files]]
 file = "config/armor-stand-editor/config.json"
-hash = "af9bde1e1e8d71c4f816e6f68e18874a77008cefefbb2c8e480df55788d50a9a"
+hash = "2f69f8ef04ea3e2223fe7e5a4ed6c32baf15b061aa660806cf7b5ebeb4361787"
 
 [[files]]
 file = "config/async.toml"
-hash = "2339523fe6bf82b048068f4faef85e99199408dbf471e2af4696082b3a57f5b3"
+hash = "b70c4739c83dcd6339fae8bec9ca460fc2388405aa5b099b666a56f6f9daab42"
 
 [[files]]
 file = "config/audioplayer/audioplayer-server.properties"
-hash = "9620cf27cf18382b4a60d0b7a3ecec9b1e213b84fbb26b5deb4ba24655af3442"
+hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "2ad7958757984bf455a66d61e3fcb9ae0a1753c0ae28f02fe805f33a59910e8b"
+hash = "1a35979060067ab436680743e2f4dd7956cc6e669ad246897d2ab7eebe63c1a4"
 
 [[files]]
 file = "config/bluemap/maps/world.conf"
-hash = "d8f88460934e498f1dfc3e9c33d8300d8fdb0db94b9b32f4f77acb233dbc3516"
+hash = "5dcc089936f81dbfe47af352c76cd215ebaa7f0537994b051f495d9de9bc3b84"
 
 [[files]]
 file = "config/bluemap/maps/world_the_end.conf"
-hash = "42e4759debb32acd56ab19b27be7375d46267cca0e1e107b09d6f99f12daf1d9"
+hash = "446b39c8d18dc58d9e160c71202981897d9270c02b40b51c0561cfda378355a2"
 
 [[files]]
 file = "config/bluemap/maps/world_the_nether.conf"
-hash = "113e16c12912c6445737154550534c4260962d5d0533000435fa68faa57d8c71"
+hash = "fc7457d35674ed1b2c9d52313bdfb84873e71ac3caf2366030f20c127c6307d8"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
-hash = "84121af20e755f22e18e04339e2a658e9c240b4c67c3abb24b50ba588925b039"
+hash = "fc05ba62c1b357af241c0e0949972d5848473c0b981313f4a5efe7b6154f7fa9"
 
 [[files]]
 file = "config/bluemap/storages/file.conf"
-hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+hash = "0ff1f7078f48c91f1aaf75cebe5af379c1e695efc28dfb38597832014786ab03"
 
 [[files]]
 file = "config/bluemap/storages/sql.conf"
-hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+hash = "6bb4fb4931854bc677af66cf7509568b1bff11e69e5657c9c15b0335514b32ca"
 
 [[files]]
 file = "config/bluemap/webapp.conf"
-hash = "01f06e0eff76f950e4152dedd36687b599777cb24a1ce4699137b1025c6288dc"
+hash = "b4ebf5bdbbf7744e3047532455510a34128f4a7ee0a5855b00d84d5f92b2197d"
 
 [[files]]
 file = "config/bluemap/webserver.conf"
-hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+hash = "ddf324792ac01b6f017f4b3d6535849fddd93cfee73687a9351e8a4fdb68d99c"
 
 [[files]]
 file = "config/bstats.json"
-hash = "686f6df7d8469f06fc1bd6846060ef82ac2583af610f282383ab10b3b0a0aca3"
+hash = "5be9c3fcbc24a3f1111a4c1154e99a179863e3128f40639a99849ebcfdcd66be"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "cf1b91af5c6def806a54004e6037d4a4c50e1f2595d26222b467f0ce75c1ed26"
+hash = "c13497d5934c0319e3d16c2d8e02e6aeebabfa504d5977865424bc3c7b60f6ee"
 
 [[files]]
 file = "config/collective.json5"
-hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+hash = "7c3c08045b3a7b145c95f9d187a71350a2d2655cfe156beb3b5cfd09ca074528"
 
 [[files]]
 file = "config/fabric-server-launcher.properties"
-hash = "f2731a45ad33c8863b7fa6b4ac1cdc152f758abaa3f2be8d6a717207038cac83"
+hash = "3436359878e6e64df51f137e23168a4d69d808142343cafbd9bd4d60c5dab391"
 
 [[files]]
 file = "config/fabrictailor.json"
-hash = "e8045bfa6cc283ca4a63866ee35198e7e6d0bc440be56db7a37497a4b55dacfd"
+hash = "faa7735a845aef9dd81cc0934cd7570c04bf515edf16a9d4dd36ba6bfe4b77ac"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "a2c5a4b980570f64fd2b7f2bc636faaec5cc31aac4e86e34e934ea0f998e656f"
+hash = "d6f5d46635123a19ccb3039591bb5b356f5dc7c883ae197b0b65c2c90c684548"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "config/floodgate/config.yml"
-hash = "2a4a12e8a2bf7575e9a1afcb7cc878e51a8af0a2cb0602cf14e9ca6db6705af4"
+hash = "8eef33f9bd88b219302172265956eaac5d3e2f38298550bc71023571458d0c93"
 
 [[files]]
 file = "config/floodgate/key.pem"
@@ -218,11 +218,11 @@ hash = "82ab7ca7e57e167130d5c21be852b1707f2af5d85b7a4bd336ac58bcfb9927af"
 
 [[files]]
 file = "config/fsit.yml"
-hash = "95cf5d5604fa2bc17f4cbc266b187876be14e96a675b10212119c19bce31d7d7"
+hash = "266de18f28365bd64d8b0e8397d0a8d8ed1f532cb046c74ad3e7096f4c244c78"
 
 [[files]]
 file = "config/image2map.json"
-hash = "801c45d87961c34d52f065de344c88629d9344604d7083284f198b8d807f48ed"
+hash = "b2e0d55cd92f9d5b236061151c0fb1d7042c2b0b66d13d33e463444919dbf142"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -230,255 +230,243 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/justplayerheads.json5"
-hash = "f1f888cb5f0da0d8c6dd2aaa866e15f4ceef00528d3602e24a2b7fef7d4b4dd0"
+hash = "a7c57d5fb8458b8bcca9f801f6d6510b822b757e8a8caaaff8c063f8383ce658"
 
 [[files]]
 file = "config/ledger.toml"
-hash = "6f8379d0c0ef4d10af25cf940f16e4378808a26f926081f44e6bf83d4258a708"
+hash = "49e206389d41ae69c25114c25b3ead09a3e6c8d78ab0f6e1da3eef70c616b694"
 
 [[files]]
 file = "config/letmedespawn.json"
-hash = "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0"
+hash = "5ad8674fec1b9ed58fbfac05c765a8f7369e64870e51cebc348987bdc3bb15a7"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
 
 [[files]]
 file = "config/luckperms/editor-keystore.json"
-hash = "56e89eaad894c285df30c2b412aefe7c088bf58e09ef2fa9832cc10bafecd975"
+hash = "ce3826a4a7541d915a20b0525fcdc4ead8c6bcafa2728848cb50dad94de67a61"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "179f84e9410fa77e9420e91ade54ca930f28da50fe5af5708608a8c0a0612b44"
+hash = "83a7705b37efd8f97c7ea1f6d17e1e18ab3d24c08a178e9ac1436505fdbed79d"
 
 [[files]]
 file = "config/luckperms/translations/repository/ar_SA.properties"
-hash = "bf8293312a11f0b2cd298a81fe17a51ca72c251b604d581a372c45c7360504eb"
+hash = "244f6c99543722c03fd0a581da0c2d43ce93bc396545f0bd88786713b41b89d5"
 
 [[files]]
 file = "config/luckperms/translations/repository/bg_BG.properties"
-hash = "06d5a4506b42a80e4bbf4d61801a2166613a441eb9418aa73a3c84e13be3c74a"
+hash = "b86ca4d4fbd2086c8710af87a3048bc41bb953b680f42e989e2bcfb3f3da0e42"
 
 [[files]]
 file = "config/luckperms/translations/repository/cs_CZ.properties"
-hash = "c3706f0c9b8dcc15b839dbc28c30abbaa549d429508ce2788d0eb2ed189c6a89"
+hash = "936780f82df858f40f5342276e233819e39dc7d5e5bcde75f92cabb000c644b5"
 
 [[files]]
 file = "config/luckperms/translations/repository/da_DK.properties"
-hash = "25df30b219ddf973f39741ccfb112a3bbcb23b19317f854742c204ba3cd14b66"
+hash = "7bdd307c776af01fcef97d03dd342a42771bbf36ec3538b5036565a12eda1191"
 
 [[files]]
 file = "config/luckperms/translations/repository/de_DE.properties"
-hash = "181b26352e6d8731b6d6a96dc188d6283d21e0731209b8e9e0b6fb3f5c455969"
+hash = "90b8798680f53b1e18fadac663792c1527c5819e69135045f22df9f5ab63d515"
 
 [[files]]
 file = "config/luckperms/translations/repository/el_GR.properties"
-hash = "500a58cccf9935cf0014f9d0c6c738aee2fb7ada382942620c71a12fafe9ee84"
+hash = "a53918739a8d91ca49aa51f498cfa95ec284254d58f9f8dcf8a9ea9d2e258828"
 
 [[files]]
 file = "config/luckperms/translations/repository/en_PT.properties"
-hash = "b4e30ccde47e435249520b1edcab5c771b5263662f1b61caf6fb8d8ef090d343"
+hash = "e6ded8905d4e11af2d77eabb58240303518edb505802ecc49a24d64023e6f083"
 
 [[files]]
 file = "config/luckperms/translations/repository/es_ES.properties"
-hash = "0e88d189b5d075036d4c7d39baf2dc7debec4bc11bea7b524a43e2a84fdef8e0"
+hash = "e968f14ba235e152d54a9b9aae5f166810f92fa6364989f2830000547ee2d3c3"
 
 [[files]]
 file = "config/luckperms/translations/repository/fa_IR.properties"
-hash = "830623f0017d2bbc92a4eab17fb2c89e8f8c63213da92864c715a04c6af5ffc5"
+hash = "c8348894b858327b9f468c8091dc04f8e06bf29dfd3cd85b7af2f5aa9374471a"
 
 [[files]]
 file = "config/luckperms/translations/repository/fi_FI.properties"
-hash = "63f451b060c1dab3a0008076b73dfd95ef5e2effbe688fe51786e65b1dced93d"
+hash = "acc5a5e3d65a394a51a9b30cdfca9eab9fead3f5dc8ac33e99471fced4e000ce"
 
 [[files]]
 file = "config/luckperms/translations/repository/fil_PH.properties"
-hash = "b7d79b5b192664855fbf3cdedf55b1a93a6a7b7dee17eeee28cbf74000852ce2"
+hash = "662df5bc107369bb88308e8cdac6d57b6b26c6217f7f72dd82c18ab9d279b10b"
 
 [[files]]
 file = "config/luckperms/translations/repository/fr_FR.properties"
-hash = "78bec8b2294f9fd2a6a958d7153057064bc7f6bf99aeae4889d73bb844ab30f0"
+hash = "5dbf550e07508d97185e01ab19df598adb6b54c7ebc43f6de6cb2cb4e24db7f7"
 
 [[files]]
 file = "config/luckperms/translations/repository/he_IL.properties"
-hash = "0b3836e270dcae860f7851ca511c02ba231ad422c0d35b42499bdc657126c1f0"
+hash = "478417376d581ef026ac3ed8e1f5bccc0a9e9a95f82529d3378eaf080454e8dd"
 
 [[files]]
 file = "config/luckperms/translations/repository/hi_IN.properties"
-hash = "e2f23be431a0ba843bd02b1c1acd7ecc8c227170619a80d3faad08c7040f7292"
+hash = "db9e8c69dc0d8fcd121e75ebebe3f649f2133667af1ae3f71e062df5eca3e917"
 
 [[files]]
 file = "config/luckperms/translations/repository/hu_HU.properties"
-hash = "6b26d964931d5be3890bbea50ed7d8ef73a6bed172bb64422bf6349e08d90320"
+hash = "41c91deb76028a323651b761621d4eee36eb28838e64f76d40b6d75d96784e60"
 
 [[files]]
 file = "config/luckperms/translations/repository/id_ID.properties"
-hash = "1abc861f060461b73a018006c33edbab54a5d19be5ee178f86fee50d42dca0a3"
+hash = "7ce2f2196b0ff9268d7d52b6fac0d3b1cc612497d01f4ce87f6e2ef7452dedd0"
 
 [[files]]
 file = "config/luckperms/translations/repository/it_IT.properties"
-hash = "73ba306112d85a6e88f3d689b0af7de67ee7397748965f49a7970c6b1d311913"
+hash = "afa5f8062096b0b68d675016c31b6976b640a8d21c8a48ff01f1930c9862cdc8"
 
 [[files]]
 file = "config/luckperms/translations/repository/ja_JP.properties"
-hash = "b9e839bae812811dc3f44ff3d8086f0a86ad45e56223fd6e88e7723ffa7c1822"
+hash = "9a2c7ddd89d598585c9c86b81903b2cc637dce9c661a5c90aa7edcb10d3237d6"
 
 [[files]]
 file = "config/luckperms/translations/repository/ka_GE.properties"
-hash = "2c0ad2e6de804c6ae13b4e5fb7c0c387a16e04710fc5a87f02e0aa09f4ba7383"
+hash = "a8e2b6f98c90916de84cadc201a9398d144fcf8ddc82da1d558f3b2943da8e61"
 
 [[files]]
 file = "config/luckperms/translations/repository/ko_KR.properties"
-hash = "35051dd4dab93215a6d623af11f7c273169617157ab260baa27addd69f6e1651"
+hash = "d1ce3f2cbf396f1ed5383b341af9de515710f804d56bb35a2bd43b4449594b89"
 
 [[files]]
 file = "config/luckperms/translations/repository/nl_NL.properties"
-hash = "7674ff756a3c3aae7c450dd88d3bf5e446757bc1dc6820edf77f5645927fe080"
+hash = "b9281d23411adafc87dcf51dfdd4a421b9159258b963a4363c041245fded9d4c"
 
 [[files]]
 file = "config/luckperms/translations/repository/no_NO.properties"
-hash = "902c97ce770205af9a0ef3cb04927b187a607a4cbd0bf460457065ca0e62f949"
+hash = "b44e3755aa19d849582ba8fc9ef9e6c011634e8fdf7de1a357da5c5e04b66bbb"
 
 [[files]]
 file = "config/luckperms/translations/repository/pl_PL.properties"
-hash = "831f701155a953fa14c1967b84e30893eeacf4215af0cc7c4170e1c84cf66efe"
+hash = "7d6ab357d8ce7b042faa2c9596056a6a7b90a019d611d3baeb502543cbaffeeb"
 
 [[files]]
 file = "config/luckperms/translations/repository/pt_BR.properties"
-hash = "4ee4f3669e790dec7ecf62e2b6d0350cdd2fd41838925c7c7edf0746e588b755"
+hash = "566f53202a41753ae53ca64d61f828f52eba67f62e6e297651fcda2e187aae02"
 
 [[files]]
 file = "config/luckperms/translations/repository/ro_RO.properties"
-hash = "b0954c2b060b164d55eb5a143277dfd00cfd47ca3d7e2fe1f1b29e17b1cd914e"
+hash = "e67dfb727fb9ee366550f393fabe5625851347c5e8e4d1e9fc7515676490a976"
 
 [[files]]
 file = "config/luckperms/translations/repository/ru_RU.properties"
-hash = "10f4fe2028fefc01b436bd37b3d3dc1ebd231e86c234559f2f7cfcba61d80daf"
+hash = "6e36c322b344b9cb6a72bf6187efd06f40a41fc09f857d09c522e33f0e16bb10"
 
 [[files]]
 file = "config/luckperms/translations/repository/sk_SK.properties"
-hash = "8796493dd2868a0c5b9cd31b0476292604f6a7b7cd2ebb77878511bdd1d522ed"
+hash = "25f06f40d4921ccb7fc1aec0a8168c67b4b78887bc6cb29d39fbf7702af0162c"
 
 [[files]]
 file = "config/luckperms/translations/repository/sr_CS.properties"
-hash = "912c0aff4bb5bf77bf907c6ccb072fae19948311d8cb8f4f5d2f97c94adb5533"
+hash = "8125e7e3dec234aa1c5dc397e6f5d05902cba78cb071addbf9c45da37ffb2d6b"
 
 [[files]]
 file = "config/luckperms/translations/repository/status.json"
-hash = "e0f9637031b8e6b76a95e45de1f04877072f40f2c38df34fd5d9242855bc87ff"
+hash = "2c685d5b2efffa04a5e62c10d51bb3944f59d87b7a720d7c8753500320e1b839"
 
 [[files]]
 file = "config/luckperms/translations/repository/sv_SE.properties"
-hash = "4a0d1b26ef14040333044bfdec7ca6c32d81251c2f0d3b8006d409dac392f454"
+hash = "4d2e5a23a184069de552cf028a153c0c9dacc28828a445f917b82e36eee64f2e"
 
 [[files]]
 file = "config/luckperms/translations/repository/tr_TR.properties"
-hash = "7e089aa50240afd2674862bb7529265d050f00e3ac651e10b516e0931fb83f51"
+hash = "5c9e2aaebed1010ae5595b75294b4c9341107e5bf367e096847c6915064a816b"
 
 [[files]]
 file = "config/luckperms/translations/repository/uk_UA.properties"
-hash = "1f9ecde9e332484f602bdba194fd46c8c400ee0997dc514f8e2b009bfca63a2b"
+hash = "fabab82fd5d77e5b1150b7f8055e1cbe3b67054e4e8b6dfe796ecc3d5712c5de"
 
 [[files]]
 file = "config/luckperms/translations/repository/vi_VN.properties"
-hash = "79c28807f8b0c5ade7aa50aa8ace0d4bc536ea21b605f45d0fa20daeec10955b"
+hash = "36b1a7aff599cd863dd53e281d05caa0902f33ea5afcb02e438d66b2869842c8"
 
 [[files]]
 file = "config/luckperms/translations/repository/zh_CN.properties"
-hash = "749818ed7785e91888857d69c198f783d8d23a5d3853ed11d9e4faea41d3e538"
+hash = "f224c3f846c858867c8b3e71dffe5940b4afa20b1678e54fabcf6f472c3db019"
 
 [[files]]
 file = "config/luckperms/translations/repository/zh_TW.properties"
-hash = "4b1e198912e781189a9cff2108dda10ae8e88d2f67d2658490880fa63641824f"
+hash = "c502967bc5451811fd4f1d8a5bde4ad795b4519d9a06cc68bb29862b5cf265ea"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "fe6674cb44e681e9ee48d12557883920deb31aae93ecf3b4e5e39609f71ef146"
+hash = "8350238d6e37cadeffff1e2d753e6243c13bd6f6b4cd72de9e8d8800d15af329"
 
 [[files]]
 file = "config/polymer/common.json"
-hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+hash = "33377e3d82d1c46ff427dc0bbec268ae2a3b6935fe60154d12214fb9b362d6d5"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "727defa3379e4c3db9ecd3cf1690d9813c8a21e0f22bcde2b7347b5f20d0ff07"
+hash = "75a47d912f4d23a46d0709e7299c712c59ab1156656e7c90b374c381e9e367aa"
 
 [[files]]
 file = "config/polymer/server.json"
-hash = "368d0beb5387207efd496cfca8467616e375d07b2b0dfedc4dab4289e9a862cd"
+hash = "8c0dd1f51ff3a1669499b720cc68344fc96517f3a1c6e875e199515ae2e65fd4"
 
 [[files]]
 file = "config/rightclickharvest.json5"
-hash = "6a27f6be5894d6f6cf72e765449ec3d9eee2456dc5bcdb552dd58602be6449be"
+hash = "d9ca7ce8ecbf15f426350700281172f3d014e5080dc79ff5195e71f988463851"
 
 [[files]]
 file = "config/scalablelux.properties"
-hash = "fd95d0091ccdb9e6690675eb476b1c06221e956416ea03795657deb37e24b5dc"
+hash = "345952dae9a3c9ce1f9453aa7735d1438832273e0da9f0884f46bc4b243c1363"
 
 [[files]]
 file = "config/sleepwarp.json"
-hash = "397625e7d7d2bfbe12a96fa290bef8f2154e1c3d98fd168e819191d60f0f6b56"
+hash = "f01e11dee800ea3a4d60651a8b303413d8551a99fd066c56114ea5fbd4d41fd9"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "b6cad1beaf6c0690b8c8ff10f1f63bb5ed24c1d013ce86f609a953ab45d57d87"
+hash = "c660d3841a2fd4e3b9038aab066e1332bd9bced3815c2862fa5ad7c03b96c0f0"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "699ad5aac2a1cf41d00e0499b899f7e2557ad5b410257b2c4b7996dbd8aa9e8d"
+hash = "f5083cd82de869ccec205f8dbab7263bd618d4d691b247cf01f2cf500b1e292f"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "a7d67322ad1b4a7f8b0c141c648cf2645ded98bc2a5bf7e91e8ff4f63e95f08f"
+hash = "4e5d10b9647278727fd0f79b8078d7c66fd4ac3b1b7c49c2e489827b67ed1f2d"
 
 [[files]]
 file = "config/universal-graves/example_models/corpse_player.json"
-hash = "f1f86bd740c9bde120cca8769e900005cf46f67cfb076b65b50c339f47deb69e"
+hash = "fc9743cd62289bb1b7ec44dc3fa7f453403ed502f64284c8bb2189b8c039a53f"
 
 [[files]]
 file = "config/universal-graves/example_models/corpse_zombie.json"
-hash = "dc1ee62c77ef7831f52c1c9a44c5dff3e5ccaa4094d43438e9fdbe1f41a06a17"
+hash = "4bc7622f04fc2c8bc48c150fc6e1485f2e5e2b032ce54413f183a0e6166e3e5c"
 
 [[files]]
 file = "config/universal-graves/example_models/default.json"
-hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+hash = "20528ef37f44d06a21ece423b4faa3beb23ca1a49e07f9461c7083e2b441a2b9"
 
 [[files]]
 file = "config/universal-graves/example_models/ender.json"
-hash = "87be637b2b08c7f97550362d66f1682ce475c4c29a470f96a44cdf86f6dc6c0e"
+hash = "537dab32823ce6b0702a8b4e29c6f8027c9af7ed42b1a9ce7f572273c1d1a11f"
 
 [[files]]
 file = "config/universal-graves/example_models/player_head.json"
-hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+hash = "20528ef37f44d06a21ece423b4faa3beb23ca1a49e07f9461c7083e2b441a2b9"
 
 [[files]]
 file = "config/universal-graves/example_models/soul.json"
-hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
+hash = "f765619c8bc3928e1ac3f297634b48f0afa42db36f901e1b9048b08df00b4fb6"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "4c39594a304978533fb5e8ab49e085f3d7761fc4243dce882752fa0f8156bc94"
+hash = "5f2b46a7aecb84b14d7434eed03b30a8270ca60eda39254dcf03ae1ca6a6cbef"
 
 [[files]]
 file = "config/voicechat/translations.properties"
-hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "6602db7080b0e348bd87c8242c49881c2ebc1512920437170be10cba563d4d44"
-
-[[files]]
-file = "mods/MiniPlaceholders-Fabric-2.3.0-SNAPSHOT.jar"
-hash = "689cb8a03508ccb43e33dbd5e7eb54ab469dccc5be27e70338ea77f06e1c5c7b"
-
-[[files]]
-file = "mods/MiniPlaceholders-LuckPerms-Expansion-Fabric-1.4.1.jar"
-hash = "e9b366625aa7a4d489bf34300ffa3d657d85d02abf5d265e3d10427c717ec868"
-
-[[files]]
-file = "mods/PAPIProxyBridge-Fabric-1.8-50ebc6e+mc.1.21.4.jar"
-hash = "e2abbc5ac7b3ff231ca4122fd8c950e5aed3ef854196d9e661cfc9f2a5416872"
+hash = "0a8559e6f9ccdc3fd8b0705c2cbcebe702ee1c92e3f0d57f445fd4a6cc293151"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -606,6 +594,11 @@ hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-expansion.pw.toml"
+hash = "b872aa5d71ed6dd1fa12939fa9ece294ae6cb2cc25961bf5b325ccc77746ad1f"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
@@ -616,8 +609,18 @@ hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
 
 [[files]]
+file = "mods/miniplaceholders.pw.toml"
+hash = "749bb4512ac41c28e7fded284d5b87f3d2876a3a583b88f76da1929b847de303"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+metafile = true
+
+[[files]]
+file = "mods/papiproxybridge.pw.toml"
+hash = "2b63935f73d7c7cd525ee69bfc598a7e38cea681f5caffc20ce8f2ddec98027e"
 metafile = true
 
 [[files]]
@@ -648,16 +651,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
-metafile = true
-
-[[files]]
-file = "mods/signedvelocity.pw.toml"
-hash = "bc2c863060059c78dc77dd6e5690cd724543162da4bf9a579c3eb1f685ea5815"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
 metafile = true
 
 [[files]]

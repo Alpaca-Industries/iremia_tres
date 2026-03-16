@@ -1,0 +1,13 @@
+name = "PAPIProxyBridge"
+filename = "PAPIProxyBridge-Plugin-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bEIUEGTX/versions/qMxjLxIR/PAPIProxyBridge-Plugin-1.6.2.jar"
+hash-format = "sha512"
+hash = "6b0fdd7811120b555ae27dce244124935103fef4e672251eacc4feca6b80581a1effa32c159dea726afb4c7ef92ec3c133563cf005ff4de63609f62c3380293a"
+
+[update]
+[update.modrinth]
+mod-id = "bEIUEGTX"
+version = "qMxjLxIR"
